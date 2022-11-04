@@ -1,0 +1,45 @@
+html {
+	font-family: sans-serif;
+  }
+  
+  body {
+	background-color: #7697a0;
+}
+
+  table {
+	border-collapse: collapse;
+	border: 2px solid rgb(200,200,200);
+	letter-spacing: 1px;
+	font-size: 0.8rem;
+  }
+  
+  td, th {
+	border: 1px solid rgb(140, 137, 137);
+	padding: 6px 1px;
+  }
+
+  th {
+	background-color: #c2c8c5;
+  }
+  
+  td {
+	text-align: center;
+  }
+
+  td {
+    background-color: rgb(250, 246, 246);
+    }
+  
+  caption {
+	padding: 1px;
+  }
+
+input {
+    background-color:transparent;
+    border: 0px solid;
+}
+
+input:focus {
+    outline:none;
+}
+
